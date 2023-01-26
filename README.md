@@ -1,2 +1,3 @@
 # ScratchProjects
-スクラッチ
+
+体験会等で利用しているScratchのプロジェクトファイル群
